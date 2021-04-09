@@ -5,6 +5,8 @@ Esse repositório agrupa conteúdos e informações necessárias para o workshop
 
 ## Repositórios de código
 
+## Roteiros para atividades práticas
+
 ## Slides
 
 
