@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Workshop do Básico à API
 
-You can use the [editor on GitHub](https://github.com/devs-javagirl/workshop-basico-api/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Nesta página você encontrará o material de apoio necessário para o Workshop do Básico à API da comunidade Devs JavaGirl
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Preparação do Ambiente
 
-### Markdown
+Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui](https://github.com/myakiju/pick-me/wiki).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Repositórios de código
 
-```markdown
-Syntax highlighted code block
+- https://github.com/devs-javagirl/empresta-livro
+- https://github.com/devs-javagirl/empresta-livro-spring
 
-# Header 1
-## Header 2
-### Header 3
+## Roteiros para atividades práticas
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devs-javagirl/workshop-basico-api/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Slides
+- [Parte 1 - Orientação a Objetos](https://docs.google.com/presentation/d/14JoimO2tt4XnesUMrbPtPKc6oqfXDu1abBh_cDoHN24/edit?usp=sharing)
+- [Parte  2 - Como APIs funcionam](https://docs.google.com/presentation/d/1c2ZlqiNCK9cgzv_fMDJTel1CepHq2VGiZ92zfXtLfkk/edit?usp=drivesdk)
