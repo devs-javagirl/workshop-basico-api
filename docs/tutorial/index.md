@@ -4,7 +4,7 @@ Olá JavaGirl!
 
 Nesta página você encontrará informações relacionadas ao workshop - Do Básico à API! O foco do workshop é demonstrar como se cria uma aplicação web, utilizando uma API Rest, com Spring-boot, desde o zero.
 
-## Como preparar meu ambiente de desen para o workshop?
+## Como preparar meu ambiente de desenvolvimento para o workshop?
 
 Para o workshop é necessário que você tenha uma IDE instalada com Java e Maven configurados.
 Caso seu computador ainda não esteja preparado, siga os passos a seguir.
