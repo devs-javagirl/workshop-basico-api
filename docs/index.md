@@ -8,7 +8,7 @@ Usaremos o Teams para nos comunicarmos durante o Workshop. Para instalá-lo siga
 
 ## Preparação do Ambiente
 
-Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui](https://github.com/myakiju/pick-me/wiki).
+Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui](tutorial/index.md).
 
 ## Repositórios de código
 
