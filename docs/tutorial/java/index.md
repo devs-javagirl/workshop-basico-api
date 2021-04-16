@@ -2,10 +2,10 @@
 
 ## Passo 1. Entre no site da Oracle e faça o download
 
-Faça o download do  Java SE Development Kit 8u191 no site da Oracle, de acordo com o seu sistema operacional.
+Faça o download do  Java SE Development Kit 8 no site da Oracle, de acordo com o seu sistema operacional.
 Atente-se para baixar o pacote compactado com tar.gz caso seu sistema operacional seja Linux.
 
-https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[Link para o site da Oracle](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
 ## Passo 2. Execute o instalador
 
