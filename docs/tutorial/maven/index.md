@@ -21,23 +21,18 @@ A saída deve ser igual ao caminho onde você decidiu instalar o Java.
 
 ## Passo 2 - Faça o download do Maven
 
-**Windows**
-
-https://www-eu.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.zip
-
-**Linux**
-
-https://www-eu.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+Baixe a versão mais recente compatível com o seu sistema operacional na
+[página para Download do Maven](https://maven.apache.org/download.cgi).
 
 ## Passo 3 - Extraia o arquivo em um diretório da sua escolha
 
 **Windows**
 
-    unzip apache-maven-3.6.0-bin.zip
+    unzip apache-maven-<versao>-bin.zip
 
 **Linux**
 
-    tar xzvf apache-maven-3.6.0-bin.tar.gz
+    tar xzvf apache-maven-<versao>-bin.tar.gz
 
 ## Passo 4 - Adicione o maven no PATH
 
@@ -62,7 +57,6 @@ Adicione as linhas abaixo no início do arquivo /etc/profile
 PATH=$PATH:<caminho_para_o_maven>/bin
 export PATH
 
-
 Salve o arquivo e reinicie a sua máquina para que as modificações sejam aplicadas.
 
 ## Passo 5 - Faça um teste
@@ -79,4 +73,3 @@ O resultado deve parecer com a saída a seguir.
     Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre
     Default locale: en_US, platform encoding: UTF-8
     OS name: "mac os x", version: "10.8.5", arch: "x86_64", family: "mac"
-
