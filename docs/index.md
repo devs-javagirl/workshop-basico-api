@@ -10,6 +10,24 @@ Usaremos o Teams para nos comunicarmos durante o Workshop. Para instalá-lo siga
 
 Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui](tutorial/index.md).
 
+## Datas Importantes
+
+### Parte 1
+
+**Sexta** - 23/04 - 18hs às 22hs
+
+**Sábado** - 24/04 - 14hs às 17hs
+
+### Parte 2
+
+**Sexta** - 30/04 - 18hs às 22hs
+
+**Sábado** - 01/05 - 14hs às 17hs
+
+### Encerramento
+
+**Sábado** - 01/05 -17hs
+
 ## Repositórios de código
 
 - [empresa-livro](https://github.com/devs-javagirl/empresta-livro)
@@ -17,7 +35,9 @@ Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui]
 
 ## Roteiros para atividades práticas
 
+Os roteiros ainda estão sendo preparados!
+
 ## Slides
 
 - [Parte 1 - Orientação a Objetos](https://docs.google.com/presentation/d/14JoimO2tt4XnesUMrbPtPKc6oqfXDu1abBh_cDoHN24/edit?usp=sharing)
-- [Parte  2 - Como APIs funcionam](https://docs.google.com/presentation/d/1c2ZlqiNCK9cgzv_fMDJTel1CepHq2VGiZ92zfXtLfkk/edit?usp=drivesdk)
+- [Parte 2 - Como APIs funcionam](https://docs.google.com/presentation/d/1c2ZlqiNCK9cgzv_fMDJTel1CepHq2VGiZ92zfXtLfkk/edit?usp=drivesdk)
