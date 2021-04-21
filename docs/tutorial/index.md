@@ -19,4 +19,4 @@ Você pode fazer isso seguindo este [tutorial](maven/index.md)
 
 ### 3. Instale o Intellij
 
-Instale o Eclipse seguindo este [tutorial](https://www.jetbrains.com/pt-br/idea/download/#section=linux)
+Instale o Intellij seguindo este [tutorial](https://www.jetbrains.com/pt-br/idea/download/#section=linux)
