@@ -20,3 +20,5 @@ Você pode fazer isso seguindo este [tutorial](maven/index.md)
 ### 3. Instale o Intellij
 
 Instale o Intellij seguindo este [tutorial](https://www.jetbrains.com/pt-br/idea/download/#section=linux)
+
+Para settar o maven dentro do IntelliJ **não ê necessário ter o Maven local**, você consegue usar o maven bundle do intlliJ seguindo esse tutorial, é bem simples rapido [Settando o maven do IntelliJ](https://www.jetbrains.com/help/idea/maven-support.html#change_jdk)
