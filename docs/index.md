@@ -1,16 +1,16 @@
 # Workshop do Básico à API
 
-Nesta página você encontrará o material de apoio necessário para o Workshop do Básico à API da comunidade Devs JavaGirl
+Nesta página você encontrará o material de apoio necessário para o Workshop do Básico à API da comunidade Devs JavaGirl.
 
 ## Instalação do Teams
 
-Usaremos o Teams para nos comunicarmos durante o Workshop. Para instalá-lo siga esse tutorial [Como entrar no Teams @DevsJavaGirls](https://drive.google.com/file/d/1cjj6MRSN-pf9INc8ZkLXaBP1ihYaK0PV/view?usp=sharing).
+Usaremos o Teams para nos comunicarmos durante o Workshop. Para instalá-lo, siga esse tutorial [Como entrar no Teams @DevsJavaGirls](https://drive.google.com/file/d/1cjj6MRSN-pf9INc8ZkLXaBP1ihYaK0PV/view?usp=sharing).
 
 ## Preparação do Ambiente
 
 Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui](tutorial/index.md).
 
-## Datas Importantes
+## Datas dos Encontros
 
 ### Parte 1
 
@@ -44,25 +44,25 @@ Os roteiros ainda estão sendo preparados!
 
 ## Dúvidas Frequentes
 
-MULHERES MARAVILHOSAS sabemos que sempre rolam algumas dúvidas né?
-Por isso vamos responder algumas perguntas que você pode estar se fazendo neste momento!
+MULHERES MARAVILHOSAS sabemos que sempre rolam algumas dúvidas, né?
+Por isso vamos responder algumas perguntas que vocês podem estar se fazendo neste momento!
 
 ### **1. Como eu sei que estou inscrita no workshop?**
 
-Resposta: Se você esta acesse o evento e veja se você esta na lista de participantes que respodneram sim para o evento .
+Resposta: Para verificar, acesse o link do evento abaixo e veja se você esta na lista de participantes que responderam sim para o evento.
 Link do evento <https://www.meetup.com/pt-BR/Devs-Java-Girl/events/276813127/>
 
 ### **2. Mas eu recebi um aviso de uma live ( caso você tenha visto o e-mail que enviamos ), o que era ?**
 
-Fizemos uma live com as monitoras e inscritas no workshop para explicar como vai ser o workshop , qual o papel da monitora e o que você precisa configurar na sua máquina para o primeiro dia de Workshop, não tem problema para quem não conseguiu participar, esta gravado aqui <https://www.youtube.com/watch?v=FO-AceKYghA>.
-Assista pois cada orientação é muito importante.
+Fizemos uma live com as monitoras e inscritas no workshop para explicar como vai ser o workshop, qual o papel da monitora e o que você precisa configurar na sua máquina para o primeiro dia de Workshop, quem não conseguiu participar, não tem problema, a gravação está disponível aqui <https://www.youtube.com/watch?v=FO-AceKYghA>.
+Assista, pois cada orientação é muito importante.
 
 ### **3. Como saber qual a sua monitora?**
 
 Entre nesta listagem e veja o e-mail da sua monitora e qual a sua turma:
 <https://drive.google.com/file/d/1yB0FUdcl-AxCZqMJuJgfn3EcPfJMgB1o/view?usp=sharing>
 
-### **4. Se você não esta ainda no Slack da comunidade nos envie seu e-mail por alguma de nossas redes sociais**
+### **4. Se você não está ainda no Slack da comunidade, nos envie seu e-mail por alguma de nossas redes sociais**
 
 - <https://www.instagram.com/devsjavagirl/>
 - <https://twitter.com/devsjavagirl>
