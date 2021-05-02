@@ -33,9 +33,9 @@ Para preparar o seu ambiente de desenvolvimento, siga o tutorial descrito [aqui]
 - [empresa-livro](https://github.com/devs-javagirl/empresta-livro)
 - [empresa-livro-spring](https://github.com/devs-javagirl/empresta-livro-spring)
 
-## Roteiros para atividades práticas
+## Roteiro para atividades práticas
 
-Os roteiros ainda estão sendo preparados!
+[Roteiro para as atividades práticas](https://docs.google.com/document/d/1RA5arToRRhN2k5ddQ_N4fOOGp8arbV47MuuscqIbTQ8/edit?usp=sharing)
 
 ## Slides
 
